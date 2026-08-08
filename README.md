@@ -35,11 +35,11 @@ I work with a variety of programming languages and tools, including:
 Let's connect! You can find me on these platforms:
 
 <p align="left">
-  <a href="[Link Facebook của bạn]" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="[Link Zalo của bạn]" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white" alt="Zalo"/></a>
-  <a href="[Link Telegram của bạn]" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:[Gmail của bạn]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="[Link Discord của bạn]" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.facebook.com/cmsvadev" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://zalo.me/0913398060" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white" alt="Zalo"/></a>
+  <a href="https://t.me/hoangancoder" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:cmsvaan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="[ĐIỀN_LINK_HOẶC_ID_DISCORD_VÀO_ĐÂY]" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 <p align="left">
@@ -64,7 +64,7 @@ If you find my work helpful and want to support me, you can donate via:
 
 | | Bank | Account Number | Account Name |
 | :---: | :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/NguyenDuyKhanh0312/NguyenDuyKhanh0312/main/assets/mbbank.png" width="60px" alt="MB Bank Logo"> | **MBBank** | **5858168888** | **VŨ HOÀNG AN** |
+| <img src="https://raw.githubusercontent.com/cmsva/cmsva/main/mbbank.png" width="60px" alt="MB Bank Logo"> | **MBBank** | **5858168888** | **VŨ HOÀNG AN** |
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
