@@ -64,7 +64,7 @@ If you find my work helpful and want to support me, you can donate via:
 
 | Bank | Account Number | Account Name |
 | :--- | :--- | :--- |
-| <img src="[https://camo.githubusercontent.com/cbd1ac7191c9c8d242d2027bc4cfe3d38e07e47de51c299d3e9758e0702dd7ef/68747470733a2f2f63646e2e7669657471722e696f2f696d672f4d422e706e67](https://camo.githubusercontent.com/cbd1ac7191c9c8d242d2027bc4cfe3d38e07e47de51c299d3e9758e0702dd7ef/68747470733a2f2f63646e2e7669657471722e696f2f696d672f4d422e706e67)" width="80px" alt="MB Bank Logo"> **MB Bank** | **5858168888** | **Vũ Hoàng An** |
+| <img src="https://camo.githubusercontent.com/cbd1ac7191c9c8d242d2027bc4cfe3d38e07e47de51c299d3e9758e0702dd7ef/68747470733a2f2f63646e2e7669657471722e696f2f696d672f4d422e706e67" width="80px" alt="MB Bank Logo"> **MB Bank** | **5858168888** | **Vũ Hoàng An** |
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -73,7 +73,7 @@ If you find my work helpful and want to support me, you can donate via:
 ## 📈 Tóm tắt kỹ năng (Tùy chọn)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[Tên đăng nhập GitHub thực tế của bạn]&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats Summary" />
+<img src="https://github-readme-stats.vercel.app/api?username=cmsva&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats Summary" />
 </p>
 *(Lưu ý: Tương tự như trên, hãy thay đổi tên người dùng thực để phần tóm tắt này hoạt động.)*
 
