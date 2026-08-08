@@ -12,7 +12,7 @@
 Hello! I'm **Vũ Hoàng An**, a developer specializing in various backend and frontend technologies. I love building efficient and useful tools.
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://komarev.com/ghpvc/?username=cmsva&label=Profile%20views&color=0e75b6&style=flat" alt="cmsva" />
 </p>
 
 ## 🛠 Tech Stack
