@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer from Vietnam</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dichvuright&label=Profile%20views&color=0e75b6&style=flat" alt="dichvuright" />
+  <img src="https://komarev.com/ghpvc/?username=cmsva&label=Profile%20views&color=0e75b6&style=flat" alt="cmsva" />
 </p>
 
 ---
@@ -51,10 +51,10 @@ Let's connect! You can find me on these platforms:
 Here are some of my GitHub activities:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Tên đăng nhập GitHub thực tế của bạn]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/cmsva">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmsva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
-
-*(Lưu ý: Hãy thay đổi `[Tên đăng nhập GitHub thực tế của bạn]` trong URL trên thành tên người dùng thực của bạn để thống kê hiển thị chính xác.)*
 
 ---
 
@@ -62,20 +62,21 @@ Here are some of my GitHub activities:
 
 If you find my work helpful and want to support me, you can donate via:
 
-| Bank | Account Number | Account Name |
-| :--- | :--- | :--- |
-| <img src="https://camo.githubusercontent.com/cbd1ac7191c9c8d242d2027bc4cfe3d38e07e47de51c299d3e9758e0702dd7ef/68747470733a2f2f63646e2e7669657471722e696f2f696d672f4d422e706e67" width="80px" alt="MB Bank Logo"> **MB Bank** | **5858168888** | **Vũ Hoàng An** |
+| | Bank | Account Number | Account Name |
+| :---: | :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/NguyenDuyKhanh0312/NguyenDuyKhanh0312/main/assets/mbbank.png" width="60px" alt="MB Bank Logo"> | **MBBank** | **5858168888** | **VŨ HOÀNG AN** |
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 📈 Tóm tắt kỹ năng (Tùy chọn)
+## 📈 Tóm tắt kỹ năng 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=cmsva&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats Summary" />
+  <a href="https://github.com/cmsva">
+    <img src="https://github-readme-stats.vercel.app/api?username=cmsva&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Summary" />
+  </a>
 </p>
-*(Lưu ý: Tương tự như trên, hãy thay đổi tên người dùng thực để phần tóm tắt này hoạt động.)*
 
 ---
 
