@@ -70,14 +70,6 @@ If you find my work helpful and want to support me, you can donate via:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 📈 Tóm tắt kỹ năng 
-
-[![GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=cmsva&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/cmsva)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsva&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/cmsva)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
