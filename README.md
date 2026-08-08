@@ -39,7 +39,7 @@ Let's connect! You can find me on these platforms:
   <a href="https://zalo.me/0913398060" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white" alt="Zalo"/></a>
   <a href="https://t.me/hoangancoder" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:cmsvaan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="[ĐIỀN_LINK_HOẶC_ID_DISCORD_VÀO_ĐÂY]" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="hoangancoder" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 <p align="left">
@@ -72,11 +72,9 @@ If you find my work helpful and want to support me, you can donate via:
 
 ## 📈 Tóm tắt kỹ năng 
 
-<p align="left">
-  <a href="https://github.com/cmsva">
-    <img src="https://github-readme-stats.vercel.app/api?username=cmsva&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Summary" />
-  </a>
-</p>
+[![GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=cmsva&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/cmsva)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsva&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/cmsva)
 
 ---
 
