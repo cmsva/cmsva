@@ -62,7 +62,7 @@ Here are some of my GitHub activities:
 
 If you find my work helpful and want to support me, you can donate via:
 
-| | Bank | Account Number | Account Name |
+| Logo | Bank | Account Number | Account Name |
 | :---: | :--- | :--- | :--- |
 | <img src="https://raw.githubusercontent.com/cmsva/cmsva/main/mbbank.png" width="60px" alt="MB Bank Logo"> | **MBBank** | **5858168888** | **VŨ HOÀNG AN** |
 
