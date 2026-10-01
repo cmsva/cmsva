@@ -1,77 +1,62 @@
-# <h1 align="center">Hi 👋, I'm Vũ Hoàng An</h1>
-<h3 align="center">A Passionate Developer from Vietnam</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cmsva&label=Profile%20views&color=0e75b6&style=flat" alt="cmsva" />
+# Vũ Hoàng An
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&pause=900&center=true&vCenter=true&width=650&lines=Backend+%26+Frontend+Developer;PHP+%7C+JavaScript+%7C+Node.js+%7C+Python;Vietnam+%F0%9F%87%BB%F0%9F%87%B3+%E2%80%A2+Building+Useful+Things+%F0%9F%9A%80" />
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://img.shields.io/badge/Developer-%F0%9F%92%BB-0e75b6?style=flat" />
+<img src="https://komarev.com/ghpvc/?username=cmsva&label=Profile%20Views&color=0e75b6&style=flat" />
 
-Hello! I'm **Vũ Hoàng An**, a developer specializing in various backend and frontend technologies. I love building efficient and useful tools.
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=cmsva&label=Profile%20views&color=0e75b6&style=flat" alt="cmsva" />
-
-</p>
-
-## 🛠 Tech Stack
-
-I work with a variety of programming languages and tools, including:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Socials
+## About
 
-Let's connect! You can find me on these platforms:
-
-<p align="left">
-  <a href="https://www.facebook.com/cmsvadev" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://zalo.me/0913398060" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white" alt="Zalo"/></a>
-  <a href="https://t.me/hoangancoder" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:cmsvaan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="hoangancoder" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
-</p>
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-## 📊 GitHub Stats
-
-Here are some of my GitHub activities:
-
-<p align="left">
-  <a href="https://github.com/cmsva">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmsva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+- 👋 Hi, I’m **Vũ Hoàng An**
+- 💻 **Backend & Frontend Developer**
+- 🇻🇳 Vietnam
+- ⚡ I enjoy building useful tools, APIs and web applications
+- 🧠 Currently working with **PHP, JavaScript, Node.js & Python**
+- 🚀 Always learning and experimenting with new technologies
 
 ---
 
-## 💰 You can help me by Donating
+## 🧰 Tech
 
-If you find my work helpful and want to support me, you can donate via:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-| Logo | Bank | Account Number | Account Name |
-| :---: | :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/cmsva/cmsva/main/mbbank.png" width="60px" alt="MB Bank Logo"> | **MBBank** | **5858168888** | **VŨ HOÀNG AN** |
+---
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+## 🔗 Links
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
+- Facebook: https://www.facebook.com/cmsvadev
+- Zalo: https://zalo.me/0913398060
+- Telegram: https://t.me/hoangancoder
+- Email: cmsvaan@gmail.com
+- Discord: **hoangancoder**
+- GitHub: https://github.com/cmsva
+
+---
+
+<div align="center">
+
+### 📊 GitHub
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cmsva&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00b0ff&height=90&section=footer" width="100%" />
+
+</div>
